@@ -1,0 +1,15 @@
+numpy
+matplotlib
+opencv-python
+pandas
+jupyter
+torch
+torchvision
+seaborn
+pillow
+bokeh
+tqdm
+ipywidgets
+pytest
+livelossplot
+ipython

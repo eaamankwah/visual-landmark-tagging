@@ -1,0 +1,6 @@
+{
+  "name": "landmark-snap",
+  "description": "Landmark classification demo app built with Voila",
+  "keywords": ["python", "voila", "pytorch", "machine-learning"],
+  "env": {}
+}

@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+pillow
+numpy
+voila==0.5.*
+ipywidgets==8.*
+jupyter_client
+notebook
